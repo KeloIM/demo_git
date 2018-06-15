@@ -3,4 +3,6 @@ Test Git
 
 petite modif en local
 
-maintenan petite modif en ligne
+maintenant petite modif en ligne
+
+mais aussi en local à nouveau
